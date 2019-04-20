@@ -1,0 +1,133 @@
+{
+	"Customer": [
+	{
+
+		"cnum":"2001",
+		"cname":"Hoffman",
+		"city":"London",
+		"rating":"100",
+		"snum":"1001",
+		"order": [
+		{
+			"onum":"3003",
+			"amot":"767.19",
+			"odate":"2000-10-03",
+			"snum":"1001"
+		}
+		]
+	},
+		{
+
+		"cnum":"2002",
+		"cname":"Giovanni",
+		"city":"Rome",
+		"rating":"200",
+		"snum":"1003",
+		"order": [
+		{
+			"onum":"3009",
+			"amot":"1713.23",
+			"odate":"2000-10-04",
+			"snum":"1003"
+		}
+		]
+	},
+	{
+
+		"cnum":"2003",
+		"cname":"Liu",
+		"city":"San Jose",
+		"rating":"200",
+		"snum":"1002",
+		"order": [
+		{
+			"onum":"3005",
+			"amot":"5160.45",
+			"odate":"2000-10-03",
+			"snum":"1002"
+		}
+		]
+	},
+	{
+
+		"cnum":"2004",
+		"cname":"Grass",
+		"city":"Berlin",
+		"rating":"300",
+		"snum":"1002",
+		"order": [
+		{
+			"onum":"3000",
+			"amot":"1309.95",
+			"odate":"2000-10-06",
+			"snum":"1002"
+		},
+		{
+			"onum":"3007",
+			"amot":"75.75",
+			"odate":"2000-10-04",
+			"snum":"1002"
+		}
+		]
+	},
+	{
+
+		"cnum":"2006",
+		"cname":"Clemens",
+		"city":"London",
+		"snum":"1001",
+		"order": [
+		{
+			"onum":"3008",
+			"amot":"4723.00",
+			"odate":"2000-10-05",
+			"snum":"1001"
+		},
+		{
+			"onum":"3011",
+			"amot":"9891.88",
+			"odate":"2000-10-06",
+			"snum":"1001"
+		}
+		]
+	},
+	{
+
+		"cnum":"2007",
+		"cname":"Pereira",
+		"city":"Rome",
+		"rating":"100",
+		"snum":"1004",
+		"order": [
+		{
+			"onum":"3002",
+			"amot":"1900.10",
+			"odate":"2000-10-03",
+			"snum":"1004"
+		}
+		]
+	},	
+	{
+
+		"cnum":"2008",
+		"cname":"Cisneros",
+		"city":"San Jose",
+		"rating":"300",
+		"snum":"1007",
+		"order": [
+		{
+			"onum":"3001",
+			"amot":"18.69",
+			"odate":"2000-10-03",
+			"snum":"1007"
+		},
+		{
+			"onum":"3006",
+			"amot":"1098.16",
+			"odate":"2000-10-03",
+			"snum":"1007"
+		}
+		]
+	}
+	]
+}
