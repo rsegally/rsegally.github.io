@@ -1,0 +1,107 @@
+{
+	"Appliance_Rental": [
+	{
+
+		"plannedpickup_date":"2013-01-09",
+		"rental_fee":"60.00",
+		"returned_date":"2013-01-07",
+		"appliance_id": [
+		{
+			"appliance_id":"1",
+			"appliance_class_code":"DORE",
+			"appliance_brand_code":"GE",
+			"appliance_name":"GE-27DBL004",
+			"initial_cost":"1533.33",
+			"repl_value":"766.67",
+			"model_year":"2012"
+
+		}
+		],
+		"invoice": [
+		{
+			"inv_int":"1",
+			"date_acquired":"2012-03-04",
+			"appliance_condition":"OK"
+		}
+		],
+		"transaction": [
+		{
+			"trans_id":"1",
+			"cust_acct_id":"1",
+			"cust_emp_info_id":"1",
+			"trans_date":"2013-01-05",
+			"sales_tax":"10.00"
+		}
+		]
+	},
+	{
+
+		"plannedpickup_date":"2013-03-30",
+		"rental_fee":"21.00",
+		"returned_date":"2013-03-30",
+		"appliance": [
+		{
+			"appliance_id":"1",
+			"appliance_class_code":"DORE",
+			"appliance_brand_code":"GE",
+			"appliance_name":"GE-27DBL004",
+			"initial_cost":"1533.33",
+			"repl_value":"766.67",
+			"model_year":"2012"
+
+		}
+		],
+		"invoice": [
+		{
+			"inv_int":"2",
+			"date_acquired":"2012-03-04",
+			"date_sold":"2014-06-06",
+			"appliance_condition":"RP"
+		}
+		],
+		"transaction": [
+		{
+			"trans_id":"20",
+			"cust_acct_id":"15",
+			"cust_emp_info_id":"10",
+			"trans_date":"2013-03-27",
+			"sales_tax":"9.00"
+		}
+		]
+	},
+	{
+
+		"plannedpickup_date":"2013-01-09",
+		"rental_fee":"60.00",
+		"returned_date":"2013-01-08",
+		"appliance": [
+		{
+			"appliance_id":"2",
+			"appliance_class_code":"BIMWV",
+			"appliance_brand_code":"KSS",
+			"appliance_name":"KEN-MV1587",
+			"initial_cost":"666.67",
+			"repl_value":"333.33",
+			"model_year":"2013"
+
+		}
+		],
+		"invoice": [
+		{
+			"inv_int":"1",
+			"date_acquired":"2012-03-04",
+			"appliance_condition":"OK"
+		}
+		],
+		"transaction": [
+		{
+			"trans_id":"1",
+			"cust_acct_id":"1",
+			"cust_emp_info_id":"1",
+			"trans_date":"2013-01-05",
+			"sales_tax":"10.00"
+		}
+		]
+	}
+	]
+}
